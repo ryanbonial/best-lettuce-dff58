@@ -5,7 +5,8 @@ sections:
   - type: hero
     heading: >-
       This is your main value proposition. I changed this! Here is a change from
-      the visual editor. Here is another change after the site transfer.
+      the visual editor. Here is another change after the site transfer. another
+      change after repo reconfig/rename in Core.
     body: >
       And a super compelling supporting paragraph that makes the user
       immediately want to click the button below.
