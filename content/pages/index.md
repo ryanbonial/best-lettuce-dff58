@@ -3,9 +3,12 @@ title: Home Page
 type: page
 sections:
   - type: hero
-    heading: This is your main value proposition. I changed this!
+    heading: >-
+      This is your main value proposition. I changed this! Here is a change from
+      the visual editor.
     body: >
-      And a super compelling supporting paragraph that makes the user immediately want to click the button below.
+      And a super compelling supporting paragraph that makes the user
+      immediately want to click the button below.
     button:
       label: Get Started
       url: /
